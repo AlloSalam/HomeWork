@@ -1,0 +1,15 @@
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\bin\Debug\net6.0\Task_46.exe
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\bin\Debug\net6.0\Task_46.deps.json
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\bin\Debug\net6.0\Task_46.runtimeconfig.json
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\bin\Debug\net6.0\Task_46.dll
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\bin\Debug\net6.0\ref\Task_46.dll
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\bin\Debug\net6.0\Task_46.pdb
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\obj\Debug\net6.0\Task_46.csproj.AssemblyReference.cache
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\obj\Debug\net6.0\Task_46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\obj\Debug\net6.0\Task_46.AssemblyInfoInputs.cache
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\obj\Debug\net6.0\Task_46.AssemblyInfo.cs
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\obj\Debug\net6.0\Task_46.csproj.CoreCompileInputs.cache
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\obj\Debug\net6.0\Task_46.dll
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\obj\Debug\net6.0\ref\Task_46.dll
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\obj\Debug\net6.0\Task_46.pdb
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_46\obj\Debug\net6.0\Task_46.genruntimeconfig.cache
