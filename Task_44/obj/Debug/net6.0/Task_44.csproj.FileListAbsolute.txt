@@ -1,0 +1,15 @@
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\bin\Debug\net6.0\Task_44.exe
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\bin\Debug\net6.0\Task_44.deps.json
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\bin\Debug\net6.0\Task_44.runtimeconfig.json
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\bin\Debug\net6.0\Task_44.dll
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\bin\Debug\net6.0\ref\Task_44.dll
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\bin\Debug\net6.0\Task_44.pdb
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\obj\Debug\net6.0\Task_44.csproj.AssemblyReference.cache
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\obj\Debug\net6.0\Task_44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\obj\Debug\net6.0\Task_44.AssemblyInfoInputs.cache
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\obj\Debug\net6.0\Task_44.AssemblyInfo.cs
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\obj\Debug\net6.0\Task_44.csproj.CoreCompileInputs.cache
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\obj\Debug\net6.0\Task_44.dll
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\obj\Debug\net6.0\ref\Task_44.dll
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\obj\Debug\net6.0\Task_44.pdb
+C:\Users\AlloSalam\Desktop\Разработка\cs\Task_44\obj\Debug\net6.0\Task_44.genruntimeconfig.cache
